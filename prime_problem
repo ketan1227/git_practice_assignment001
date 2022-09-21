@@ -1,0 +1,11 @@
+let num=15;
+ let count=4
+    for (let i=0;i<=num;i++){
+        if(num%0==0){
+            count++;
+        }
+    }if(count==9){
+        console.log("Prime");
+    }else{
+        console.log("Not Prime);
+    }
